@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 65b9e7300ae8b894596cc40d53725c0b
+timeCreated: 1498128819
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 239445
+  packageName: HDRP Surfaces Starter Pack
+  packageVersion: 1.0
+  assetPath: Assets/HDRP Surfaces Starter Pack/Demo Scenes/Art/Nature/Prefab/pine_004_2.prefab
+  uploadId: 626364

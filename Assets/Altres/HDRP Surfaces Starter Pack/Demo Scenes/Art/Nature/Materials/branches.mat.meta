@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 8271e576dae390b40b54cc8480e889aa
+timeCreated: 1495998543
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 239445
+  packageName: HDRP Surfaces Starter Pack
+  packageVersion: 1.0
+  assetPath: Assets/HDRP Surfaces Starter Pack/Demo Scenes/Art/Nature/Materials/branches.mat
+  uploadId: 626364

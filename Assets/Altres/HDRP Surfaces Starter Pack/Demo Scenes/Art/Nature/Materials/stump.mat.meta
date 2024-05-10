@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: c21a501a84a11bd4090d3a7cd4eb7571
+timeCreated: 1491472034
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 239445
+  packageName: HDRP Surfaces Starter Pack
+  packageVersion: 1.0
+  assetPath: Assets/HDRP Surfaces Starter Pack/Demo Scenes/Art/Nature/Materials/stump.mat
+  uploadId: 626364

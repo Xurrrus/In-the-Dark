@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 69e8d11d29329fc4ea667e51907a4433
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 4890085278179872738
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 239445
+  packageName: HDRP Surfaces Starter Pack
+  packageVersion: 1.0
+  assetPath: Assets/HDRP Surfaces Starter Pack/Demo Scenes/Demo Scene 1/New Lighting
+    Settings.lighting
+  uploadId: 626364

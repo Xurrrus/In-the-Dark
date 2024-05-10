@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 7c98c188fbad2e14ea6c7976939bd6b8
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 8574412962073106934
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 239445
+  packageName: HDRP Surfaces Starter Pack
+  packageVersion: 1.0
+  assetPath: Assets/HDRP Surfaces Starter Pack/Surfaces/Materials/Terrain Layers/Dirt
+    Grass.terrainlayer
+  uploadId: 626364
